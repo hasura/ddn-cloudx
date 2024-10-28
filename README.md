@@ -14,8 +14,8 @@
   - Chapter 1 - Greenfield Application
     - Google Docs/Figma Style Real time commenting 
     - Github Repo: https://github.com/hasura/ddn-comments 
-  - Chapter 2 - Sample Cloud Application
-    - Multi Region Ecommerce application
+  - Chapter 2 - Sample Cloud Heavy Read Only Application
+    - Multi Region Ecommerce domain - Airbnb
     - Github Repo: https://github.com/hasura/ddn-sample-app
   - Chapter 3 - Multi Repo/ Multi Team Workflows
     - Indpendent Team CI/CD without breaking changes
