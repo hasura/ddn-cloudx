@@ -10,7 +10,8 @@
 
 ## Session (Demo) Outline
 
-  - Introduction to DDN and Market Trends
+  - Introduction to Hasura DDN and Market Trends
+    - Metadata-Centric Data Access: Discover how DDN’s declarative metadata model creates a unified, flexible data access layer that seamlessly integrates traditional databases and external services. This metadata-driven approach reduces the need for custom code, allowing teams to focus on high-impact areas, especially as AI technologies shift the development paradigm.   
   - Chapter 1 - Greenfield Application
     - Google Docs/Figma Style Real time commenting 
     - Github Repo: https://github.com/hasura/ddn-comments 
