@@ -24,7 +24,5 @@
       - Team 1 - https://github.com/hasura/ddn-sample-app/tree/multirepo/team1admin 
       - Team 2 - https://github.com/hasura/ddn-federation-sample-team2
   - Chapter 4 - Upcoming innovations
-    - jSON API Support 
-      -  Github Repo: https://github.com/hasura/json-api-experiments
     - gRPC Support
       - Github Repo: https://github.com/hasura/grpc-api-experiments 
