@@ -21,12 +21,13 @@
   - Chapter 3 - PromptQL Demo
     - Creating an AI Assistant for your Github Repo
     - https://promptql.hasura.io/docs/example-github
-  - Chapter 4 - Multi Repo/ Multi Team Workflows
-    - Indpendent Team CI/CD without breaking changes
-    - Github Repos:
-      - Team 1 - https://github.com/hasura/ddn-sample-app/tree/multirepo/team1admin 
-      - Team 2 - https://github.com/hasura/ddn-federation-sample-team2
-  - Open Techincal RFCs for the DDN Platform
-    - Protobuf based API (Github Repo: https://github.com/hasura/grpc-api-experiments)
-    - [Distributed Entitlements based AuthZ System](https://github.com/hasura/graphql-engine/blob/abhinav/v3-authorization-rules-rfc/rfcs/v3/authorization-rules.md)
+  - Advanced Topics
+    - Chapter 4 - Multi Repo/ Multi Team Workflows
+      - Indpendent Team CI/CD without breaking changes
+      - Github Repos:
+        - Team 1 - https://github.com/hasura/ddn-sample-app/tree/multirepo/team1admin 
+        - Team 2 - https://github.com/hasura/ddn-federation-sample-team2
+    - Open Techincal RFCs for the DDN Platform
+      - Protobuf based API (Github Repo: https://github.com/hasura/grpc-api-experiments)
+      - [Distributed Entitlements based AuthZ System](https://github.com/hasura/graphql-engine/blob/abhinav/v3-authorization-rules-rfc/rfcs/v3/authorization-rules.md)
 
