@@ -19,7 +19,7 @@
 ![alt text](images/commentsdemo.png)
   - Chapter 2 - Sample Cloud Heavy Read Only Application (DDN Free and Base)
     - Multi Region Ecommerce domain - Airbnb
-![alt text](images/sampleapp.png)
+![alt text](images/Sampleapp.png)
     - Github Repo: https://github.com/hasura/ddn-sample-app
     - PromptQL Demo
       - Creating an AI Assistant for your Github Repo
