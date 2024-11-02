@@ -13,19 +13,21 @@
   - Introduction to Hasura DDN and Market Trends
     - Metadata-Centric Data Access: Discover how DDN’s declarative metadata model creates a unified, flexible data access layer that seamlessly integrates traditional databases and external services. This metadata-driven approach reduces the need for custom code, allowing teams to focus on high-impact areas, especially as AI technologies shift the development paradigm.
 ![alt text](images/ddn.png)
-  - Chapter 1 - Greenfield Application
+  - Chapter 1 - Greenfield Application Local Development
     - Google Docs/Figma Style Real time commenting 
     - Github Repo: https://github.com/hasura/ddn-comments 
 ![alt text](images/commentsdemo.png)
-  - Chapter 2 - Sample Cloud Heavy Read Only Application
+  - Chapter 2 - Sample Cloud Heavy Read Only Application (DDN Free and Base)
     - Multi Region Ecommerce domain - Airbnb
+![alt text](images/sampleapp.png)
     - Github Repo: https://github.com/hasura/ddn-sample-app
-  - Chapter 3 - PromptQL Demo
-    - Creating an AI Assistant for your Github Repo
-    - https://promptql.hasura.io/docs/example-github
+    - PromptQL Demo
+      - Creating an AI Assistant for your Github Repo
+      - https://promptql.hasura.io/docs/example-github
 ![alt text](images/promptql3.png)
   - Advanced Topics
-    - Chapter 4 - Multi Repo/ Multi Team Workflows
+    - Chapter 3 - Multi Repo/ Multi Team Workflows
+![alt text](images/ddnadv1.png)
       - Indpendent Team CI/CD without breaking changes
       - Github Repos:
         - Team 1 - https://github.com/hasura/ddn-sample-app/tree/multirepo/team1admin 
