@@ -17,7 +17,7 @@
     - Google Docs/Figma Style Real time commenting 
     - Github Repo: https://github.com/hasura/ddn-comments 
 ![alt text](images/commentsdemo.png)
-  - Chapter 2 - Sample Cloud Heavy Read Only Application (DDN Free and Base)
+  - Chapter 2 - Sample Cloud `read-heavy` Application (DDN Free and Base)
     - Multi Region Ecommerce domain - Airbnb type scale app
 ![alt text](images/Sampleapp.png)
     - Github Repo: https://github.com/hasura/ddn-sample-app
