@@ -29,11 +29,12 @@
     - Chapter 3 - Multi Repo/ Multi Team Workflows <br />
 <img src="images/ddnadv1.png" alt="" width="600"/>
       - Indpendent Team CI/CD without breaking changes
-        - Watch Recording of this webinar for in depth [DDN Advanced Demo](https://hasura.io/events/webinar/hasura-v2-to-data-delivery-network-transforming-your-metadata-driven-data-access-story)
+        - Watch Recording of this webinar for in depth [DDN Advanced Demo](https://hasura.io/events/webinar/hasura-v2-to-data-delivery-network-transforming-your-metadata-driven-data-access-story)<br />
+        
       - Github Repos:
         - Team 1 - https://github.com/hasura/ddn-sample-app/tree/multirepo/team1admin 
-        - Team 2 - https://github.com/hasura/ddn-federation-sample-team2
+        - Team 2 - https://github.com/hasura/ddn-federation-sample-team2<br />
     - Open Techincal RFCs for the DDN Platform
-      - Protobuf based API (Github Repo: https://github.com/hasura/grpc-api-experiments)
+      - Protobuf based API (Github Repo: https://github.com/hasura/grpc-api-experiments)<br />
       - [Distributed Entitlements based AuthZ System](https://github.com/hasura/graphql-engine/blob/abhinav/v3-authorization-rules-rfc/rfcs/v3/authorization-rules.md)
 
