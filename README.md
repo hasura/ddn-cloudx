@@ -11,23 +11,24 @@
 ## Session (Demo) Outline
 
   - Introduction to Hasura DDN and Market Trends
-    - Metadata-Centric Data Access: Discover how DDN’s declarative metadata model creates a unified, flexible data access layer that seamlessly integrates traditional databases and external services. This metadata-driven approach reduces the need for custom code, allowing teams to focus on high-impact areas, especially as AI technologies shift the development paradigm.
-![alt text](images/ddn.png)
+    - Metadata-Centric Data Access: Discover how DDN’s declarative metadata model creates a unified, flexible data access layer that seamlessly integrates traditional databases and external services. This metadata-driven approach reduces the need for custom code, allowing teams to focus on high-impact areas, especially as AI technologies shift the development paradigm.<br />
+![alt text](images/ddn.png)<br />
   - Chapter 1 - Greenfield Application Local Development
     - Google Docs/Figma Style Real time commenting 
-    - Github Repo: https://github.com/hasura/ddn-comments 
-![alt text](images/commentsdemo.png)
+    - Github Repo: https://github.com/hasura/ddn-comments <br />
+![alt text](images/commentsdemo.png)<br />
   - Chapter 2 - Sample Cloud `read-heavy` Application (DDN Free and Base)
-    - Multi Region Ecommerce domain - Airbnb type scale app
-![alt text](images/Sampleapp.png)
+    - Multi Region Ecommerce domain - Airbnb type scale app<br />
+![alt text](images/Sampleapp.png)<br />
     - Github Repo: https://github.com/hasura/ddn-sample-app
     - PromptQL Demo
       - Creating an AI Assistant for your Github Repo
-      - https://promptql.hasura.io/docs/example-github
-![alt text](images/promptql3.png)
+      - https://promptql.hasura.io/docs/example-github<br />
+![alt text](images/promptql3.png)<br />
   - Advanced Topics
-    - Chapter 3 - Multi Repo/ Multi Team Workflows
-![alt text](images/ddnadv1.png)
+    - Chapter 3 - Multi Repo/ Multi Team Workflows <br />
+![alt text](images/ddnadv1.png)<br />
+<img src="images/ddnadv1.png" alt="PromptQL Demo" width="400"/>
       - Indpendent Team CI/CD without breaking changes
         - Watch Recording of this webinar for in depth [DDN Advanced Demo](hasura.io/events/webinar/hasura-v2-to-data-delivery-network-transforming-your-metadata-driven-data-access-story
 )
