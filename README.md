@@ -29,8 +29,7 @@
     - Chapter 3 - Multi Repo/ Multi Team Workflows <br />
 <img src="images/ddnadv1.png" alt="" width="600"/>
       - Indpendent Team CI/CD without breaking changes
-        - Watch Recording of this webinar for in depth [DDN Advanced Demo](hasura.io/events/webinar/hasura-v2-to-data-delivery-network-transforming-your-metadata-driven-data-access-story
-)
+        - Watch Recording of this webinar for in depth [DDN Advanced Demo](hasura.io/events/webinar/hasura-v2-to-data-delivery-network-transforming-your-metadata-driven-data-access-story)
       - Github Repos:
         - Team 1 - https://github.com/hasura/ddn-sample-app/tree/multirepo/team1admin 
         - Team 2 - https://github.com/hasura/ddn-federation-sample-team2
