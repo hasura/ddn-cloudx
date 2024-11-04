@@ -27,7 +27,7 @@
 ![alt text](images/promptql3.png)
   - Advanced Topics
     - Chapter 3 - Multi Repo/ Multi Team Workflows
-<img src="images/ddnadv1.png" alt="" width="600"/>
+![alt text](images/ddnadv1.png)
       - Indpendent Team CI/CD without breaking changes
         - Watch Recording of this webinar for in depth [DDN Advanced Demo](https://hasura.io/events/webinar/hasura-v2-to-data-delivery-network-transforming-your-metadata-driven-data-access-story)
         
