@@ -1,6 +1,8 @@
 # ddn-cloudx
 
 - Session Link - https://apiworld2024.sched.com/event/1i0N5
+- Contact Details
+  - rahul.a13@gmail.com, linkedin.com/in/rahulagarwal13
 
 ## Pre Requisites
 
