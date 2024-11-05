@@ -1,3 +1,16 @@
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [ddn-cloudx](#ddn-cloudx)
+  - [Pre Requisites](#pre-requisites)
+  - [Introduction to Hasura DDN and Market Trends](#introduction-to-hasura-ddn-and-market-trends)
+  - [Chapter 1 - Greenfield Application (DDN Local Development)](#chapter-1---greenfield-application-ddn-local-development)
+  - [Chapter 2 - Sample Cloud `read-heavy` Application (DDN Cloud)](#chapter-2---sample-cloud-read-heavy-application-ddn-cloud)
+    - [PromptQL Demo](#promptql-demo)
+  - [Advanced Topics](#advanced-topics)
+    - [Chapter 3 - Multi Repo/ Multi Team Workflows (DDN Cloud Advanced)](#chapter-3---multi-repo-multi-team-workflows-ddn-cloud-advanced)
+    - [Open Techincal RFCs for the DDN Platform](#open-techincal-rfcs-for-the-ddn-platform)
+
 # ddn-cloudx
 
 - Session Link - https://apiworld2024.sched.com/event/1i0N5
@@ -22,9 +35,9 @@ Metadata-Centric Data Access: Discover how DDN’s declarative metadata model cr
 - Google Docs/Figma Style Real time commenting 
 - Github Repo: https://github.com/hasura/ddn-comments<br>
 <!-- ![alt text](images/commentsdemo.png)<br> -->
-  <img src="images/commentsdemo.png" width="500" alt="alt text"><br>
+  <img src="images/commentsdemo.png" width="600" alt="alt text"><br>
 
-## Chapter 2 - Sample Cloud `read-heavy` Application (DDN Cloud - Free and Base)
+## Chapter 2 - Sample Cloud `read-heavy` Application (DDN Cloud)
 
 - Multi Region Ecommerce domain - Airbnb type scale app
 - Github Repo: https://github.com/hasura/ddn-sample-app<br>
